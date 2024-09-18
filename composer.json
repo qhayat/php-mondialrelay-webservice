@@ -1,5 +1,5 @@
 {
-  "name": "cba85/php-mondialrelay-webservice",
+  "name": "qhayat/php-mondialrelay-webservice",
   "description": "PHP interface for Mondial Relay webservice.",
   "type": "library",
   "license": "MIT",
@@ -7,6 +7,10 @@
     {
       "name": "Clement Barbaza",
       "email": "hi@clementbarbaza.com"
+    },
+    {
+      "name": "Qamar HAYAT",
+      "email": "hayat.qamar@gmail.com"
     }
   ],
   "autoload": {
